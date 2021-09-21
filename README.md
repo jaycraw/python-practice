@@ -3,7 +3,7 @@ Solving python problems to freshen up my skills
 Format will generally be:
 
 #Problem:
-  #the thing I'm trying to figure out
+  the thing I'm trying to figure out
 
 #MySolution:
   With no googling, my best attempt at answering the question. Unless otherwise stated, this accomplishes the objective and has been tested using several edge cases
